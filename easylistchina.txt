@@ -11,6 +11,14 @@
 ! or via e-mail (easylist.china@gmail.com).
 !
 !-----------------------General advert blocking filters-----------------------!
+!论坛图片悬浮
+keylol.com##[class="tip tip_4 aimg_tip"]
+!视频评分
+||bilibili.com##.bilibili-player-score-wrap
+!视频预约弹窗
+||bilibili.com##.bilibili-player-reserve-wrap
+!投票&关注&三连弹窗
+||bilibili.com##.bilibili-player-video-popup
 -1688-wp-media/ads/
 -880-80-4.jpg
 -90mh-gg.
